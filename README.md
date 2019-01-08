@@ -1,4 +1,4 @@
-# AIProject
+# Autonomous Car algorithm using Reinforcement Learning
 
 
 Usage:
